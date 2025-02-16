@@ -6,6 +6,3 @@ course_academic_hours=64
 course_astronomic_hours=(course_academic_hours*academic_hour_duration+((course_academic_hours/3)*break_duration))/astronomic_hour_duration
 
 print(course_astronomic_hours)
-
-
-
